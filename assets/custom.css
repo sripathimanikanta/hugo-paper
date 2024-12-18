@@ -1,1 +1,8 @@
-/* Place custom css here. */
+.text-3xl {
+    font-size: 1.875rem; /* 30px */
+    line-height: 2.25rem; /* 36px */
+}
+
+.font-bold {
+  font-weight: 900;
+}
